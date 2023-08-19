@@ -1,0 +1,2 @@
+# bilibili_and_mi
+用于米服原神和B服原神的资源文件夹的转化，需借助termux运行
